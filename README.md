@@ -1,2 +1,2 @@
 # x1
-Esse é meu projeto proprio criado em Java feito para criar um torneio de x1 na modalidade do futebol,que é bastante conhecido e coloquei alguns jogadores para se enfrentar e acabei apresentando eles e mostrando um pouco de suas caracteristícas
+Esse é meu projeto proprio criado em Java feito para criar um torneio de x1 na modalidade do futebol,que é bastante conhecido e coloquei alguns jogadores para se enfrentar e acabei apresentando eles e mostrando um pouco de suas caracteristícas,lembrando que é apenas um projeto inicial meu pois tenho poucos conhecimentos com o back end ainda mais em breve irei mexendo no site e fazendo com que esse sistema de enfrentamento melhore.
